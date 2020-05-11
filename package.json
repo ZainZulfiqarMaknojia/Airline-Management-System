@@ -1,0 +1,24 @@
+{
+  "name": "airline-management-system",
+  "version": "1.0.0",
+  "description": "This Is SE Project",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZainZulfiqarMaknojia/Airline-Management-System.git"
+  },
+  "author": "Zain Zulfiqar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZainZulfiqarMaknojia/Airline-Management-System/issues"
+  },
+  "homepage": "https://github.com/ZainZulfiqarMaknojia/Airline-Management-System#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
